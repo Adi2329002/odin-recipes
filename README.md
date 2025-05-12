@@ -18,6 +18,7 @@ The final result is a simple recipes website with links to individual recipe pag
 🔗 [View the Website](https://github.com/Adi2329002/odin-recipes/) 
 
 ## 📁 Project Structure
+```
 odin-recipes/
 ├── index.html
 ├── recipes/
