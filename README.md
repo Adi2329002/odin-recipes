@@ -55,11 +55,11 @@ open index.html
 
 
 > Note: the inner code block uses triple backticks + `bash` for syntax highlighting.
-
+```
 ### 8. **Lessons Learned / Future Improvements**
 Reflect on what you learned and what you want to add next.
 
-```markdown
+
 ## ✅ Lessons Learned
 
 - Writing semantic HTML
