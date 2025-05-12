@@ -16,3 +16,22 @@ The final result is a simple recipes website with links to individual recipe pag
 ## 🌐 Live Demo
 
 🔗 [View the Website](https://github.com/Adi2329002/odin-recipes/) 
+
+## 📁 Project Structure
+odin-recipes/
+├── index.html
+├── recipes/
+│ ├── spaghetti.html
+│ ├── fried-rice.html
+│ └── pancakes.html
+└── images/
+├── spaghetti.jpg
+├── fried-rice.jpg
+└── pancakes.jpg
+
+## 🛠️ Built With
+
+- HTML5
+- Git & GitHub
+
+  
