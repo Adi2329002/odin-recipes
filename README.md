@@ -29,6 +29,7 @@ odin-recipes/
 ├── spaghetti.jpg
 ├── fried-rice.jpg
 └── pancakes.jpg
+```
 
 ## 🛠️ Built With
 
