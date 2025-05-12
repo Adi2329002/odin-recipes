@@ -15,4 +15,4 @@ The final result is a simple recipes website with links to individual recipe pag
 
 ## 🌐 Live Demo
 
-🔗 [View the Website](https://yourusername.github.io/odin-recipes/) 
+🔗 [View the Website](https://Adi2329002.github.io/odin-recipes/) 
