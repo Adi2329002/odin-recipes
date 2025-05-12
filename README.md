@@ -20,15 +20,17 @@ The final result is a simple recipes website with links to individual recipe pag
 ## 📁 Project Structure
 ```
 odin-recipes/
-├── index.html
+|── README.md
+|── index.html
 ├── recipes/
-│ ├── spaghetti.html
-│ ├── fried-rice.html
-│ └── pancakes.html
+│ ├── Vegpakoras.html
+│ ├── RomanPizza.html
+│ └── Sicilianpesto.html
 └── images/
-├── spaghetti.jpg
-├── fried-rice.jpg
-└── pancakes.jpg
+├── vegpakoras.jpg
+├── Romanpizza.jpg
+└── pesto.jpg
+
 ```
 
 ## 🛠️ Built With
